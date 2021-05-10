@@ -18,6 +18,7 @@
 $this->view->show('index',array('name'=>'marc));
 ```
 <h2>example view file</h2>
+
 ```php
 <?php
 
