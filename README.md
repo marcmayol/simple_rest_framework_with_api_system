@@ -9,7 +9,6 @@
 
 # Using the Views system
 
-<h2> What is REST API? </h2>
 <p> the views system is wasy to use create a view file call it your controller and pas de data with a array and you will be able to use it as a normal varaible in you view file as bellow: </p>
 
 ```php
