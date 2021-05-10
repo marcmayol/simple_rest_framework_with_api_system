@@ -11,16 +11,17 @@
 
 <h2> What is REST API? </h2>
 <p> the views system is wasy to use create a view file call it your controller and pas de data with a array and you will be able to use it as a normal varaible in you view file as bellow: </p>
+
 ```php
 <?php
+
 $this->view->show('index',array('name'=>'marc));
-?>
 ```
 <h2>example view file</h2>
 ```php
 <?php
+
 echo 'helo '.$name;
-?>
 ```
 <h2>Router system</h2>
 ```php
