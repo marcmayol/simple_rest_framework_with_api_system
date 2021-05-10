@@ -44,7 +44,7 @@ $router->get('/:name', function($param) {
     echo 'Welcome ' . $param['name'];
 });
 ```
-<p> For example, when I use this url "yourdomin.com/afgprogrammer" I will get following output.</p>
+<p> For example, when I use this url "yourdomin.com/marcmayol94" I will get following output.</p>
 
 ```
 Welcome afgprogrammer
